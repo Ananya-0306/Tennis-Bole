@@ -1,7 +1,7 @@
 # Tennis Bole
 Project for Hacklytics 2021
 
-Authors: Ting Li, Lide Zhang, and Ruiyang Zhou.
+Authors: Ananya
 
 ## Inspiration
 We are inspired by the increasing need for a platform that can help sports teams discover and recruit talents.  Therefore, we decided to participate in the GT Athletics tennis challenge, and we built a program that helps the GT tennis team to recruit possibly hidden young tennis talents.
