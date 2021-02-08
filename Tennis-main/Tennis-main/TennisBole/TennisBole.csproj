@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Product>Tennis Bole</Product>
+    <Company />
+    <Authors>Ting Li, Lide Zhang, and Ruiyang Zhou</Authors>
+    <ApplicationIcon>Tennis.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="22.1.2" />
+  </ItemGroup>
+
+</Project>
